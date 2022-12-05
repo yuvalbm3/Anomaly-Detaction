@@ -2,7 +2,9 @@ How to run a docker:
 
 Change directory to the app directory. Replace \path\to\app with the path to your getting-started\app directory:
 
-[cd \path\to\app]
+'''bash
+cd \path\to\app
+'''
 
 For building the docker:
 
