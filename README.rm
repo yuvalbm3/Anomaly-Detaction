@@ -1,4 +1,4 @@
-How to run a docker:
+## How to run a docker:
 
 Change directory to the app directory. Replace \path\to\app with the path to your getting-started\app directory:
 
