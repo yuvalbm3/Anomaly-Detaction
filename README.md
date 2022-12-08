@@ -3,13 +3,13 @@ We get this project as home task at "Method for Detection of Cyber Attacks" cour
 The input we get is csv file that contain network data from a phisical hosts.
 
 ### Data fields in the csv file:
-● record ID - The unique identifier for each connection record.
+● record ID - The unique identifier for each connection record. <br>
 ● Duration_- This feature denotes the number of seconds (rounded) of the connection. For 
-example, a connection for 0.17s or 0.3s would be indicated with a “0” in this field.
+example, a connection for 0.17s or 0.3s would be indicated with a “0” in this field. <br>
 ● src_bytes This field represents the number of data bytes transferred from the source to the 
-destination (i.e., the number of outgoing bytes from the host).
+destination (i.e., the number of outgoing bytes from the host). <br>
 ● dst_bytes This feature represents the number of data bytes transferred from the destination 
-to the source (i.e., the number of bytes received by the host).
+to the source (i.e., the number of bytes received by the host). <br>
 
 ## How to run the docker:
 In order to run the application with the docker properly you need the follow the next orders
