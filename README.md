@@ -35,5 +35,5 @@ docker run -dp 5000:5000 getting-started
 Than, open your browser and write in the URL for presention the application UI:
 
 ```bash
-"localhost:5000"
+localhost:5000
 ```
